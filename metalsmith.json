@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Meyo Studios",
-    "description": "Meyo Studios"
+    "description": "Meyo Studios",
+	"path": ""
   },
   "source": "src",
   "destination": "build",
@@ -9,7 +10,7 @@
 	"metalsmith-drafts": true,
     "metalsmith-markdown": {},
     "metalsmith-permalinks": {
-      "pattern": ":title"
+      "pattern": ":path/:title"
     },
     "metalsmith-templates": {
       "engine": "handlebars"

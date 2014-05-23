@@ -1,0 +1,12 @@
+
+sprites2.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+award
+  rotate: false
+  xy: 2, 2
+  size: 300, 340
+  orig: 300, 340
+  offset: 0, 0
+  index: -1
